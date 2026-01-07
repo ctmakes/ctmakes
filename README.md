@@ -32,5 +32,5 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"When you cease to dream you cease to live."* — Malcolm Forbes
+*"I have learned over the years that when one’s mind is made up, this diminishes fear."* — Rosa Parks
 <!-- /QUOTE -->
