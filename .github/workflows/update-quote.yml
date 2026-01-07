@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # Runs daily at midnight UTC
   workflow_dispatch: # Allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-quote:
     runs-on: ubuntu-latest
