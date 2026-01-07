@@ -26,7 +26,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ## Connect
 
 - [Twitter/X](https://twitter.com/ctmakes)
-- [Website](https://ctmakes.com)
+- [Blog](https://ctmakes.com)
 - [Book a chat](https://cal.com/ctmakes/hellothere)
 
 ---
