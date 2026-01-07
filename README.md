@@ -31,4 +31,6 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 
 ---
 
-<!-- QUOTE -->*"When you cease to dream you cease to live."* — Malcolm Forbes<!-- /QUOTE -->
+<!-- QUOTE -->
+*"When you cease to dream you cease to live."* — Malcolm Forbes
+<!-- /QUOTE -->

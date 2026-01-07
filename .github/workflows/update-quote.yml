@@ -17,13 +17,11 @@ jobs:
           quote=$(echo "$response" | jq -r '.quote')
           author=$(echo "$response" | jq -r '.author')
 
-          # Read README and replace quote section
+          # Replace content between QUOTE markers
           awk -v q="$quote" -v a="$author" '
-            /<!-- QUOTE -->/ {
-              print "<!-- QUOTE -->*\"" q "\"* — " a "<!-- /QUOTE -->"
-              next
-            }
-            { print }
+            /<!-- QUOTE -->/ { print; print "*\"" q "\"* — " a; skip=1; next }
+            /<!-- \/QUOTE -->/ { skip=0 }
+            !skip { print }
           ' README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit changes
