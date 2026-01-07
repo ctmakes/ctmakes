@@ -1,0 +1,35 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and update quote
+        run: |
+          response=$(curl -s https://ctmakes.com/api/quotes/random)
+          quote=$(echo "$response" | jq -r '.quote')
+          author=$(echo "$response" | jq -r '.author')
+
+          # Read README and replace quote section
+          awk -v q="$quote" -v a="$author" '
+            /<!-- QUOTE -->/ {
+              print "<!-- QUOTE -->*\"" q "\"* — " a "<!-- /QUOTE -->"
+              next
+            }
+            { print }
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update daily quote"
+          git push
