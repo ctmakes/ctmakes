@@ -1,12 +1,12 @@
-Software engineer based in Singapore, building practical business tools, privacy apps, blockchain contracts and AI-powered applications.
+Software engineer based in Singapore.
+
+Building practical business tools, privacy apps, blockchain contracts and AI-powered applications.
 
 ## Projects
 
-**[LeapCount](https://leapcount.com/)** — All-in-one business platform for freelancers and SMEs.
-
-**[Note67](https://note67.com/)** ([Open Source](https://github.com/ZapYap-com/note67)) — Private meeting notes assistant with local AI processing. .
-
-**[ZapYap](https://zapyap.com/)** — Secure AI assistant and password manager with quantum-secure encryption.
+- **[LeapCount](https://leapcount.com/)** — All-in-one business platform for freelancers and SMEs.
+- **[Note67](https://note67.com/)** ([Github](https://github.com/ZapYap-com/note67)) — Private meeting notes assistant with local AI processing.
+- **[ZapYap](https://zapyap.com/)** — Secure AI assistant and password manager with quantum-secure encryption.
 
 ## For Fun
 
