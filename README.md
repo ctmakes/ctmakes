@@ -6,7 +6,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 
 - **[LeapCount](https://leapcount.com/)** — All-in-one business platform for freelancers and SMEs.
 - **[Note67](https://note67.com/)** ([Github](https://github.com/ZapYap-com/note67)) — Private meeting notes assistant with local AI processing.
-- **[SnapToWindow](https://snaptowindow.com/)** — Cross-platform keyboard-driven window management utility.
+- **[SnapToWindow](https://snaptowindow.com/)** ([Github](https://github.com/ctmakes/snaptowindow)) — Cross-platform keyboard-driven window management utility.
 - **[ZapYap](https://zapyap.com/)** — Secure AI assistant and password manager with quantum-secure encryption.
 
 ## For Fun
