@@ -32,7 +32,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"I have learned over the years that when one's mind is made up, this diminishes fear."* — Rosa Parks
+*"The difference between a boss and a leader: a boss says, ‘Go!’ -a leader says, ‘Let’s go!’."* — E. M. Kelly
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
