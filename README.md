@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Life is 10% of what happens to me and 90% of how I react to it"* — John Maxwell
+*"Its better to own the racecourse then the race horse"* — Unknown
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
