@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"I would rather die of passion than of boredom."* — Vincent van Gogh
+*"The successful man is the one who finds out what is the matter with his business before his competitors do."* — Roy L. Smith, animator and film director
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
