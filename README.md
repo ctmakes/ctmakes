@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"The successful man is the one who finds out what is the matter with his business before his competitors do."* — Roy L. Smith, animator and film director
+*"Don’t be cocky. Don’t be flashy. There’s always someone better than you."* — Tony Hsieh, Zappos.com CEO
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
