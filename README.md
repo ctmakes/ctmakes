@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Don’t be cocky. Don’t be flashy. There’s always someone better than you."* — Tony Hsieh, Zappos.com CEO
+*"Success is...knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others."* — John C. Maxwell
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
