@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Nothing will work unless you do."* — Maya Angelou
+*"We must balance conspicuous consumption with conscious capitalism."* — Kevin Kruse
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
