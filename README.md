@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"We must balance conspicuous consumption with conscious capitalism."* — Kevin Kruse
+*"I am not a product of my circumstances. I am a product of my decisions."* — Stephen Covey
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
