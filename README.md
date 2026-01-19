@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"I am not a product of my circumstances. I am a product of my decisions."* — Stephen Covey
+*"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great."* — Mark Twain
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
