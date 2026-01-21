@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"You should always stay hungry. Stay hungry, so you can eat."* — Syed Balkhi
+*"The whole secret of a successful life is to find out what is one's destiny to do, and then do it."* — Henry Ford
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
