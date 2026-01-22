@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"The whole secret of a successful life is to find out what is one's destiny to do, and then do it."* — Henry Ford
+*"One day your life will flash before your eyes. Make sure it is worth watching."* — Mooie
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
