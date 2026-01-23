@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"One day your life will flash before your eyes. Make sure it is worth watching."* — Mooie
+*"A room without books is like a body without a soul."* — Marcus Tullius Cicero
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
