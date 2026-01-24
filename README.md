@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"A room without books is like a body without a soul."* — Marcus Tullius Cicero
+*"It’s easier to ask forgiveness than it is to get permission"* — Grace Hopper
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
