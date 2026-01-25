@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"It’s easier to ask forgiveness than it is to get permission"* — Grace Hopper
+*"Business opportunities are like buses, there’s always another one coming."* — Richard Branson
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
