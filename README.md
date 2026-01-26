@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Business opportunities are like buses, there’s always another one coming."* — Richard Branson
+*"Imagine your life is perfect in every respect; what would it look like?"* — Brian Tracy
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
