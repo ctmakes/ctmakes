@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Imagine your life is perfect in every respect; what would it look like?"* — Brian Tracy
+*"The mind is everything. What you think you become."* — Buddha
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
