@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"By failing to prepare, you are preparing to fail."* — Benjamin Franklin
+*"Quality is not an act, it is a habit."* — Aristotle
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
