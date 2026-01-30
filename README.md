@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Quality is not an act, it is a habit."* — Aristotle
+*"The will to win, the desire to succeed, the urge to reach your full potential, these are the keys that will unlock the door to personal excellence."* — Confucius
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
