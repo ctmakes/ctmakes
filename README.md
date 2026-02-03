@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Nothing great was ever achieved without enthusiasm."* — Ralph Waldo Emerson
+*"You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction."* — George Lorimer
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
