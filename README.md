@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Success is the sum of small efforts, repeated day-in and day-out."* — Robert Collier
+*"I treat business a bit like a computer game. I count money as points. I’m doing really well: making lots of money and lots of points."* — Michael Dunlop
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
