@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"I treat business a bit like a computer game. I count money as points. I’m doing really well: making lots of money and lots of points."* — Michael Dunlop
+*"How wonderful it is that nobody need wait a single moment before starting to improve the world."* — Anne Frank
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
