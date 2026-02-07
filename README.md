@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"How wonderful it is that nobody need wait a single moment before starting to improve the world."* — Anne Frank
+*"A poorly implemented feature hurts more than not having it at all."* — Noah Everett, founder of Twitpic
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
