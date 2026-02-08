@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"A poorly implemented feature hurts more than not having it at all."* — Noah Everett, founder of Twitpic
+*"If you are offered a seat on a rocket ship, don’t ask what seat! Just get on."* — Sheryl Sandberg
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
