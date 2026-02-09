@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"If you are offered a seat on a rocket ship, don’t ask what seat! Just get on."* — Sheryl Sandberg
+*"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."* — David Brinkley
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
