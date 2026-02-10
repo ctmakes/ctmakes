@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."* — David Brinkley
+*"People rarely succeed unless they have fun in what they are doing."* — Dale Carnegie
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
