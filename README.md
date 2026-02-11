@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"People rarely succeed unless they have fun in what they are doing."* — Dale Carnegie
+*"One can get anything if he is willing to help enough others get what they want."* — Zig Ziglar
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
