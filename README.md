@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"One can get anything if he is willing to help enough others get what they want."* — Zig Ziglar
+*"Goals are the fuel in the furnace of achievement."* — Brian Tracy
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
