@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."* — Nelson Mandela
+*"Everything you can imagine is real."* — Pablo Picasso
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
