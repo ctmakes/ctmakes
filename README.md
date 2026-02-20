@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."* — David Brinkley
+*"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him."* — Booker T. Washington
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
