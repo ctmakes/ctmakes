@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him."* — Booker T. Washington
+*"The only way to do great work is to love what you do."* — Steve Jobs
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
