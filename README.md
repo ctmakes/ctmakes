@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"The only way to do great work is to love what you do."* — Steve Jobs
+*"You need to overcome the tug of people against you as you reach for high goals."* — George S. Patton
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
