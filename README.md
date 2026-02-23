@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"You need to overcome the tug of people against you as you reach for high goals."* — George S. Patton
+*"If you are offered a seat on a rocket ship, don’t ask what seat! Just get on."* — Sheryl Sandberg
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
