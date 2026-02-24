@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"If you are offered a seat on a rocket ship, don’t ask what seat! Just get on."* — Sheryl Sandberg
+*"Ideas are easy. Implementation is hard."* — Guy Kawasaki, founder of AllTop
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
