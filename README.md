@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Ideas are easy. Implementation is hard."* — Guy Kawasaki, founder of AllTop
+*"I have learned over the years that when one’s mind is made up, this diminishes fear."* — Rosa Parks
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
