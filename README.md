@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us."* — Helen Keller
+*"There are no traffic jams along the extra mile."* — Roger Staubach
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
