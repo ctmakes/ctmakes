@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"There are no traffic jams along the extra mile."* — Roger Staubach
+*"Teachers open the door. You enter by yourself."* — Chinese Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
