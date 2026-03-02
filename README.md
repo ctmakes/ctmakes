@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Quality is not an act, it is a habit."* — Aristotle
+*"No one can make you feel inferior without your consent."* — Eleanor Roosevelt
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
