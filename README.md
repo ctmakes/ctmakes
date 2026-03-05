@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"There is only one success- to be able to spend your life in your own way."* — Christopher Morley, journalist
+*"You won’t get anything unless you have the vision to imagine it."* — John Lennon
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
