@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Do what you can, where you are, with what you have."* — Teddy Roosevelt
+*"There are no traffic jams along the extra mile."* — Roger Staubach
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
