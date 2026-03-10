@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"There are no traffic jams along the extra mile."* — Roger Staubach
+*"Every artist was first an amateur."* — Ralph Waldo Emerson
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
