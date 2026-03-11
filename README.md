@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Every artist was first an amateur."* — Ralph Waldo Emerson
+*"Failure is just another way to learn how to do something right."* — Marian Wright Edelman
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
