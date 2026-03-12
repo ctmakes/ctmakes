@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Failure is just another way to learn how to do something right."* — Marian Wright Edelman
+*"If you're going through hell, keep going."* — Winston Churchill
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
