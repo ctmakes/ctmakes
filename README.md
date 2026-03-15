@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"There is no happiness except in the realization that we have accomplished something."* — Henry Ford
+*"Business opportunities are like buses, there’s always another one coming."* — Richard Branson
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
