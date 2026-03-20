@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"A journey of a thousand miles begins with a single step."* — Chinese Proverb
+*"We must balance conspicuous consumption with conscious capitalism."* — Kevin Kruse
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
