@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself."* — Harvey Fierstein
+*"I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."* — Neil Armstrong
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
