@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."* — Neil Armstrong
+*"Certain things catch your eye, but pursue only those that capture the heart."* —  Ancient Indian Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
