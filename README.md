@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Certain things catch your eye, but pursue only those that capture the heart."* —  Ancient Indian Proverb
+*"A lie can travel halfway around the world while the truth is putting on its shoes"* — Mark Twain
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
