@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"A lie can travel halfway around the world while the truth is putting on its shoes"* — Mark Twain
+*"The world doesn’t need more noise. Don’t complain. Set an example."* — Zat Rana
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
