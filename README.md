@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."* — Albert Einstein
+*"The purpose of life isn’t to do or to accomplish. It’s to merely experience."* — Zat Rana
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
