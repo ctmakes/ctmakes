@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"The purpose of life isn’t to do or to accomplish. It’s to merely experience."* — Zat Rana
+*"The only journey is the one within."* — Rainer Maria Rilke
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
