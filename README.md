@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"You become what you believe."* — Oprah Winfrey
+*"The longer I live, the more beautiful life becomes."* — Frank Lloyd Wright
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
