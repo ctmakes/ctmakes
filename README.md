@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"The longer I live, the more beautiful life becomes."* — Frank Lloyd Wright
+*"Find a job you love and you’ll never work a day in your life."* — Confucius
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
