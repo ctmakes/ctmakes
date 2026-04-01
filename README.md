@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Find a job you love and you’ll never work a day in your life."* — Confucius
+*"Worry about being better; bigger will take care of itself. Think one customer at a time and take care of each one the best way you can."* — Gary Comer, founder of Land’s End
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
