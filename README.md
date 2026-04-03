@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"You must expect great things of yourself before you can do them."* — Michael Jordan
+*"Strong lives are motivated by dynamic purposes."* — Kenneth Hildebrand
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
