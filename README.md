@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Strong lives are motivated by dynamic purposes."* — Kenneth Hildebrand
+*"My number one piece of advice is: you should learn how to program."* — Mark Zuckerberg, founder of Facebook
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
