@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"My number one piece of advice is: you should learn how to program."* — Mark Zuckerberg, founder of Facebook
+*"There are two rules for success. 1) Never tell everything you know."* — Roger H. Lincoln
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
