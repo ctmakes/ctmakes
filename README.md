@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"There are two rules for success. 1) Never tell everything you know."* — Roger H. Lincoln
+*"Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice."* — Wayne Dyer
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
