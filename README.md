@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice."* — Wayne Dyer
+*"The only medicine for suffering, crime, and all the other woes of mankind, is wisdom."* — Thomas Huxley
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
