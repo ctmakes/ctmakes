@@ -33,7 +33,7 @@ Building practical business tools, privacy apps, blockchain contracts and AI-pow
 ---
 
 <!-- QUOTE -->
-*"The only medicine for suffering, crime, and all the other woes of mankind, is wisdom."* — Thomas Huxley
+*"If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced."* — Vincent Van Gogh
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
