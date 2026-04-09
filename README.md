@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced."* — Vincent Van Gogh
+*"Just when the caterpillar thought the world was ending, he turned into a butterfly."* — Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
