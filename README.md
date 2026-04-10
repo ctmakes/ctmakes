@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Just when the caterpillar thought the world was ending, he turned into a butterfly."* — Proverb
+*"Formal education will make you a living. Self education will make you a fortune."* — Jim Rohn
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
