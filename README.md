@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Formal education will make you a living. Self education will make you a fortune."* — Jim Rohn
+*"Purpose is what gives life a meaning."* — C. H. Parkhurst
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
