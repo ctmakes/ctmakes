@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Purpose is what gives life a meaning."* — C. H. Parkhurst
+*"The more things you care about, the less meaningful caring becomes."* — Zat Rana
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
