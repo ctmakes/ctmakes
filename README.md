@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The more things you care about, the less meaningful caring becomes."* — Zat Rana
+*"Life is 10% of what happens to me and 90% of how I react to it"* — John Maxwell
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
