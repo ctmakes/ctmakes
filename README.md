@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Life is 10% of what happens to me and 90% of how I react to it"* — John Maxwell
+*"The secret to getting ahead is getting started."* — Mark Twain
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
