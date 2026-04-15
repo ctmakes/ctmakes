@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The secret to getting ahead is getting started."* — Mark Twain
+*"Hardships often prepare ordinary people for an extraordinary destiny."* — C.S. Lewis
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
