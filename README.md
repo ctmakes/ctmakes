@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Hardships often prepare ordinary people for an extraordinary destiny."* — C.S. Lewis
+*"The more you praise and celebrate your life, the more there is in life to celebrate."* — Oprah Winfrey
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
