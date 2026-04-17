@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The more you praise and celebrate your life, the more there is in life to celebrate."* — Oprah Winfrey
+*"Don’t be afraid to give up the good to go for the great."* — John D. Rockefeller
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
