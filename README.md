@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Don’t be afraid to give up the good to go for the great."* — John D. Rockefeller
+*"Formal education will make you a living; self-education will make you a fortune."* — Jim Rohn, author and speaker
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
