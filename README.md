@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live."* — Mae Jemison
+*"Nothing lasts forever. Not even your troubles."* — Arnold H. Glasgow
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
