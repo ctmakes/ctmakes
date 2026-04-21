@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Nothing lasts forever. Not even your troubles."* — Arnold H. Glasgow
+*"Opportunities don't happen. You create them."* — Chris Grosser
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
