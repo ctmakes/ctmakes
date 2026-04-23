@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"You may be disappointed if you fail, but you are doomed if you don’t try."* — Beverly Sills
+*"The significance of a man is not in what he attains but in what he longs to attain."* — Kahlil Gibran
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
