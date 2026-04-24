@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The significance of a man is not in what he attains but in what he longs to attain."* — Kahlil Gibran
+*"Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind."* — Dr. Seuss
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
