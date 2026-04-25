@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind."* — Dr. Seuss
+*"An unexamined life is not worth living."* — Socrates
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
