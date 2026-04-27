@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Start where you are. Use what you have.  Do what you can."* — Arthur Ashe
+*"If you want to achieve greatness stop asking for permission."* — Anonymous
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
