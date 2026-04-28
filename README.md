@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"If you want to achieve greatness stop asking for permission."* — Anonymous
+*"Your time is limited, so don’t waste it living someone else’s life."* — Steve Jobs
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
