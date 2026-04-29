@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Your time is limited, so don’t waste it living someone else’s life."* — Steve Jobs
+*"Ideas are commodity. Execution of them is not."* — Michael Dell, CEO of Dell
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
