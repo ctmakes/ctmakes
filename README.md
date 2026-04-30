@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Ideas are commodity. Execution of them is not."* — Michael Dell, CEO of Dell
+*"Begin to be now what you will be hereafter."* — William James
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
