@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Begin to be now what you will be hereafter."* — William James
+*"Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice."* — Wayne Dyer
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
