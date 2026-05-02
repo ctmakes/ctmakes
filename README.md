@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice."* — Wayne Dyer
+*"It often requires more courage to dare to do right than to fear to do wrong."* — Abraham Lincoln
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
