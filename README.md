@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"It often requires more courage to dare to do right than to fear to do wrong."* — Abraham Lincoln
+*"Too many of us are not living our dreams because we are living our fears."* — Les Brown
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
