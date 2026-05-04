@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Too many of us are not living our dreams because we are living our fears."* — Les Brown
+*"I avoid looking forward or backward, and try to keep looking upward."* — Charlotte Bronte
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
