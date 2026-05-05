@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I avoid looking forward or backward, and try to keep looking upward."* — Charlotte Bronte
+*"You only live once, but if you do it right, once is enough."* — Mae West
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
