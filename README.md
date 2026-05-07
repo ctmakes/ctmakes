@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Begin to be now what you will be hereafter."* — William James
+*"Most great people have attained their greatest success just one step beyond their greatest failure."* — Napoleon Hill
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
