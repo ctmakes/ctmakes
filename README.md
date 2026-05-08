@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Most great people have attained their greatest success just one step beyond their greatest failure."* — Napoleon Hill
+*"The successful warrior is the average man, with laser-like focus."* — Bruce Lee, actor and martial arts instructor
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
