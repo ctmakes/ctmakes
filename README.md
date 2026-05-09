@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The successful warrior is the average man, with laser-like focus."* — Bruce Lee, actor and martial arts instructor
+*"People often say that motivation doesn’t last. Well, neither does bathing and that is why we recommend it daily."* — Zig Ziglar
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
