@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"People often say that motivation doesn’t last. Well, neither does bathing and that is why we recommend it daily."* — Zig Ziglar
+*"Take risks and you'll get the payoffs. Learn from your mistakes until you succeed. It's that simple."* — Bobby Flay
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
