@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Take risks and you'll get the payoffs. Learn from your mistakes until you succeed. It's that simple."* — Bobby Flay
+*"The successful man is the one who finds out what is the matter with his business before his competitors do."* — Roy L. Smith, animator and film director
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
