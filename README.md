@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The successful man is the one who finds out what is the matter with his business before his competitors do."* — Roy L. Smith, animator and film director
+*"The only person you are destined to become is the person you decide to be."* — Ralph Waldo Emerson
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
