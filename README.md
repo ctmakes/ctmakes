@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The only person you are destined to become is the person you decide to be."* — Ralph Waldo Emerson
+*"Begin to be now what you will be hereafter."* — William James
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
