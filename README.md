@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Begin to be now what you will be hereafter."* — William James
+*"“I think it’s wrong that only one company makes the game Monopoly."* — Steven Wright
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
