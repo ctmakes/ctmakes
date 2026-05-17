@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing"* — George Bernard Shaw
+*"Let us make our future now, and let us make our dreams tomorrow’s reality."* — Malala Yousafzai
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
