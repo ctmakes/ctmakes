@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Let us make our future now, and let us make our dreams tomorrow’s reality."* — Malala Yousafzai
+*"Success is how high you bounce after you hit bottom"* — General George Patton
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
