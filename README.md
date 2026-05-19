@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Success is how high you bounce after you hit bottom"* — General George Patton
+*"Take chances, make mistakes. That's how you grow. Pain nourishes your courage. You have to fail in order to practice being brave"* — Mary Tyler Moore
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
