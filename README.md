@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Take chances, make mistakes. That's how you grow. Pain nourishes your courage. You have to fail in order to practice being brave"* — Mary Tyler Moore
+*"Formal education will make you a living; self-education will make you a fortune."* — Jim Rohn, author and speaker
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
