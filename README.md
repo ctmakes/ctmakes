@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"One day your life will flash before your eyes. Make sure it is worth watching"* — Mooie
+*"Success is a lousy teacher. It seduces smart people into thinking they can’t lose."* — Bill Gates
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
