@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Success is a lousy teacher. It seduces smart people into thinking they can’t lose."* — Bill Gates
+*"It’s fine to celebrate success but it is more important to heed the lessons of failure."* — Bill Gates, co-founder of Microsoft
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
