@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"It’s fine to celebrate success but it is more important to heed the lessons of failure."* — Bill Gates, co-founder of Microsoft
+*"The longer I live, the more beautiful life becomes."* — Frank Lloyd Wright
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
