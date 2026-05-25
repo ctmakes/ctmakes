@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The longer I live, the more beautiful life becomes."* — Frank Lloyd Wright
+*"Opportunity is missed by most people because it is dressed in overalls and looks like work."* — Thomas Edison
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
