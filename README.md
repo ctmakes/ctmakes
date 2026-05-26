@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Opportunity is missed by most people because it is dressed in overalls and looks like work."* — Thomas Edison
+*"Get big quietly, so you don’t tip off potential competitors."* — Chris Dixon, co-founder of Hunch
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
