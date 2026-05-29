@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"In preparing for battle I have always found that plans are useless, but planning is indispensable."* — Dwight D. Eisenhower
+*"It is better to fail in originality than to succeed in imitation."* — Herman Melville
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
