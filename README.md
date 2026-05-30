@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"It is better to fail in originality than to succeed in imitation."* — Herman Melville
+*"Dreaming, after all, is a form of planning."* — Gloria Steinem
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
