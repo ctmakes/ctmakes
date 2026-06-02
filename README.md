@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me."* — Erma Bombeck
+*"Education costs money.  But then so does ignorance."* — Sir Claus Moser
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
