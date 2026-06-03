@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Education costs money.  But then so does ignorance."* — Sir Claus Moser
+*"Life is short, and it is here to be lived."* — Kate Winslet
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
