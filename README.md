@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"It is never too late to be what you might have been."* — George Eliot
+*"After a certain point, money is meaningless. It ceases to be the goal. The game is what counts."* — Aristotle
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
