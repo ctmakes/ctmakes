@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"After a certain point, money is meaningless. It ceases to be the goal. The game is what counts."* — Aristotle
+*"It’s easier to ask forgiveness than it is to get permission"* — Grace Hopper
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
