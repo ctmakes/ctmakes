@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Get big quietly, so you don’t tip off potential competitors."* — Chris Dixon, co-founder of Hunch
+*"The best time to plant a tree is twenty years ago. The second best time is now."* — Chinese Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
