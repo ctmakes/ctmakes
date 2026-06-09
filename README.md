@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The best time to plant a tree is twenty years ago. The second best time is now."* — Chinese Proverb
+*"Not a single person whose name is worth remembering lived a life of ease."* — Ryan P. Allis
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
