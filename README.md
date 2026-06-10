@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Not a single person whose name is worth remembering lived a life of ease."* — Ryan P. Allis
+*"If you want your children to turn out well, spend twice as much time with them, and half as much money."* — Abigail Van Buren
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
