@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"If you want your children to turn out well, spend twice as much time with them, and half as much money."* — Abigail Van Buren
+*"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
