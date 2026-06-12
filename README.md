@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt
+*"A poorly implemented feature hurts more than not having it at all."* — Noah Everett, founder of Twitpic
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
