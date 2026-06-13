@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"A poorly implemented feature hurts more than not having it at all."* — Noah Everett, founder of Twitpic
+*"I’m not afraid of dying, I’m afraid of not trying."* — Jay Z, musician.
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
