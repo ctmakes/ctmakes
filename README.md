@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I’m not afraid of dying, I’m afraid of not trying."* — Jay Z, musician.
+*"It's not the size of the dog in the fight, but the size of the fight in the dog"* — Archie Griffen
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
