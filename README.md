@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"It's not the size of the dog in the fight, but the size of the fight in the dog"* — Archie Griffen
+*"In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it."* — Jane Smiley
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
