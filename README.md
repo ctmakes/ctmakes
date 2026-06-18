@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"You measure the size of the accomplishment by the obstacles you had to overcome to reach your goals."* — Booker T. Washington
+*"Whatever the mind can conceive and believe, the mind can achieve."* — Dr. Napoleon Hill, author of Think and Grow Rich
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
