@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Whatever the mind can conceive and believe, the mind can achieve."* — Dr. Napoleon Hill, author of Think and Grow Rich
+*"Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance"* — Bruce Barton
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
