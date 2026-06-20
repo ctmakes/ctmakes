@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance"* — Bruce Barton
+*"I would rather die of passion than of boredom."* — Vincent van Gogh
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
