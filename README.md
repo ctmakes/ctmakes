@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I would rather die of passion than of boredom."* — Vincent van Gogh
+*"No one can make you feel inferior without your consent."* — Eleanor Roosevelt
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
