@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"No one can make you feel inferior without your consent."* — Eleanor Roosevelt
+*"An entrepreneur tends to bite off a little more than he can chew hoping he’ll quickly learn how to chew it."* — Roy Ash
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
