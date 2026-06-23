@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"An entrepreneur tends to bite off a little more than he can chew hoping he’ll quickly learn how to chew it."* — Roy Ash
+*"It does not matter how slowly you go as long as you do not stop."* — Confucius
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
