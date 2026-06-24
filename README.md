@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"It does not matter how slowly you go as long as you do not stop."* — Confucius
+*"Whatever the mind can conceive and believe, the mind can achieve"* — Dr. Napoleon Hill
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
