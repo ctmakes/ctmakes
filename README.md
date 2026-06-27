@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The man who does not work for the love of work but only for money is likely to neither make money nor find much fun in life."* — Charles M. Schwab, American steel magnate
+*"Remember no one can make you feel inferior without your consent."* — Eleanor Roosevelt
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
