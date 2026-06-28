@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Remember no one can make you feel inferior without your consent."* — Eleanor Roosevelt
+*"Get big quietly, so you don’t tip off potential competitors."* — Chris Dixon, co-founder of Hunch
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
