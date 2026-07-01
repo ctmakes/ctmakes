@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"A ship in harbor is safe. But that’s now what ships are built for."* — William Shedd
+*"Start today, not tomorrow. If anything, you should have started yesterday."* — Emil Motycka
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
