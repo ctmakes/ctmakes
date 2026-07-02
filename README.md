@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Start today, not tomorrow. If anything, you should have started yesterday."* — Emil Motycka
+*"The person who says it cannot be done should not interrupt the person who is doing it."* — Chinese Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
