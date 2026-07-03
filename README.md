@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The person who says it cannot be done should not interrupt the person who is doing it."* — Chinese Proverb
+*"The more difficulties one has to encounter, within and without, the more significant and the higher in inspiration his life will be."* — Horace Bushnell
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
