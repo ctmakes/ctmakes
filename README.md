@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The more difficulties one has to encounter, within and without, the more significant and the higher in inspiration his life will be."* — Horace Bushnell
+*"If your actions inspire others to dream more, learn more, do more, and become more, you are a leader."* — John Quincy Adams
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
