@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"If your actions inspire others to dream more, learn more, do more, and become more, you are a leader."* — John Quincy Adams
+*"A ship in harbor is safe, but that’s not what ships are for."* — John Shedd
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
