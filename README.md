@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"A ship in harbor is safe, but that’s not what ships are for."* — John Shedd
+*"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great"* — Mark Twain
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
