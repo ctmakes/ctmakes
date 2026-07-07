@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great"* — Mark Twain
+*"The most difficult thing is the decision to act, the rest is merely tenacity."* — Amelia Earhart
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
