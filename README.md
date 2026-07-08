@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The most difficult thing is the decision to act, the rest is merely tenacity."* — Amelia Earhart
+*"I’m not a businessman"* — I”m a business, man.”
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
