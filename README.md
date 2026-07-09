@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I’m not a businessman"* — I”m a business, man.”
+*"Running a start-up is like eating glass. You just start to like the taste of your own blood."* — Sean Parker, co-founder of Napster
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
