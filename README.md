@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Running a start-up is like eating glass. You just start to like the taste of your own blood."* — Sean Parker, co-founder of Napster
+*"Life shrinks or expands in proportion to one’s courage."* — Anais Nin
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
