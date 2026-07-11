@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Life shrinks or expands in proportion to one’s courage."* — Anais Nin
+*"Being realistic is the most commonly traveled road to mediocrity."* — Will Smith
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
