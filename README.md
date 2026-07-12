@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Being realistic is the most commonly traveled road to mediocrity."* — Will Smith
+*"Courage is the first of human qualities because it is the quality which guarantees all others."* — Winston Churchill
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
