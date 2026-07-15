@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"It’s fine to celebrate success but it is more important to heed the lessons of failure."* — Bill Gates, co-founder of Microsoft
+*"Good things come to people who wait, but better things come to those who go out and get them."* — Anonymous
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
