@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Even if you don’t have the perfect idea to begin with, you can likely adapt."* — Victoria Ransom, co-founder of Wildfire Interactive
+*"Ever notice how it’s a penny for your thoughts, yet you put in your two-cents? Someone is making a penny on the deal."* — Steven Wright
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
