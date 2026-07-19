@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Ever notice how it’s a penny for your thoughts, yet you put in your two-cents? Someone is making a penny on the deal."* — Steven Wright
+*"When I dare to be powerful - to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."* — Audre Lorde
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
