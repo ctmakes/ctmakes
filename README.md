@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"When I dare to be powerful - to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."* — Audre Lorde
+*"Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."* — Barack Obama
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
