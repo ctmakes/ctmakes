@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Opportunity is missed by most people because it is dressed in overalls and looks like work."* — Thomas Edison
+*"Years teach us more than books."* — Berthold Auerbach
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
