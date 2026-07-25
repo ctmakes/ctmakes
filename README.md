@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"If you are offered a seat on a rocket ship, don’t ask what seat! Just get on."* — Sheryl Sandberg
+*"Formal education will make you a living; self-education will make you a fortune."* — Jim Rohn, author and speaker
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
