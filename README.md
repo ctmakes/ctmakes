@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Believe that you will succeed"* — and you will.”
+*"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."* — Leonardo da Vinci
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
