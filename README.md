@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."* — Leonardo da Vinci
+*"Problems are not stop signs, they are guidelines."* — Robert H. Schuller
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
