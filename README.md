@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Problems are not stop signs, they are guidelines."* — Robert H. Schuller
+*"If you are not willing to risk the usual, you will have to settle for the ordinary."* — Jim Rohn
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
