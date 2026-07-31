@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"If you are not willing to risk the usual, you will have to settle for the ordinary."* — Jim Rohn
+*"Do not wait to strike until the iron is hot; but make it hot by striking."* — William B. Sprague
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
