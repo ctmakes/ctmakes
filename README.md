@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Do not wait to strike until the iron is hot; but make it hot by striking."* — William B. Sprague
+*"All of my friends were doing babysitting jobs. I wanted money without the job."* — Adam Horwitz
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
