@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"All of my friends were doing babysitting jobs. I wanted money without the job."* — Adam Horwitz
+*"Success is walking from failure to failure with no loss of enthusiasm."* — Winston Churchill
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
