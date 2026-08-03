@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Success is walking from failure to failure with no loss of enthusiasm."* — Winston Churchill
+*"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."* — Carl Bard
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
