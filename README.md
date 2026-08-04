@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."* — Carl Bard
+*"Try not to become a person of success, but rather try to become a person of value."* — Albert Einstein
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
