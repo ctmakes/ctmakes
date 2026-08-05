@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Try not to become a person of success, but rather try to become a person of value."* — Albert Einstein
+*"The more difficulties one has to encounter, within and without, the more significant and the higher in inspiration his life will be."* — Horace Bushnell
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
