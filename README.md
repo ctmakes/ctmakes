@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The more difficulties one has to encounter, within and without, the more significant and the higher in inspiration his life will be."* — Horace Bushnell
+*"The secret of getting ahead is getting started."* — Mark Twain
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
