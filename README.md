@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The secret of getting ahead is getting started."* — Mark Twain
+*"The way to get started is to quit talking and begin doing."* — Walt Disney
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
