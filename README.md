@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The way to get started is to quit talking and begin doing."* — Walt Disney
+*"Leadership is the art of getting someone else to do something you want done because he wants to do it."* — Dwight D. Eisenhower
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
