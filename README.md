@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Leadership is the art of getting someone else to do something you want done because he wants to do it."* — Dwight D. Eisenhower
+*"After a certain point, money is meaningless. It ceases to be the goal. The game is what counts."* — Aristotle
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
