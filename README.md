@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"You can do anything, but not everything."* — Anonymous
+*"Follow your bliss and the universe will open doors where there were only walls."* — Joseph Campbell
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
