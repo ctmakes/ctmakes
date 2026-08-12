@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Follow your bliss and the universe will open doors where there were only walls."* — Joseph Campbell
+*"The person who says it cannot be done should not interrupt the person who is doing it."* — Chinese Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
