@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The person who says it cannot be done should not interrupt the person who is doing it."* — Chinese Proverb
+*"If you do what you always did, you will get what you always got."* — Anonymous
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
