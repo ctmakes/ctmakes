@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"If you do what you always did, you will get what you always got."* — Anonymous
+*"The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts."* — Bertrand Russell
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
