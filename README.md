@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts."* — Bertrand Russell
+*"Whatever the mind can conceive and believe, the mind can achieve"* — Dr. Napoleon Hill
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
