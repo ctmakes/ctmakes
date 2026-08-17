@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Whatever the mind can conceive and believe, the mind can achieve"* — Dr. Napoleon Hill
+*"Insist on yourself. Never imitate."* — Ralph Waldo Emerson
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
