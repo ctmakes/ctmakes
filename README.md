@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Insist on yourself. Never imitate."* — Ralph Waldo Emerson
+*"I didn’t fail the test. I just found 100 ways to do it wrong."* — Benjamin Franklin
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
