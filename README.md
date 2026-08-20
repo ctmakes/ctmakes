@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I have not failed. I’ve just found 10,000 ways that won’t work"* — Thomas Alva Edison
+*"All progress takes place outside the comfort zone."* — Michael John Bobak
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
