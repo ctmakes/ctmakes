@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Fall seven times and stand up eight."* — Japanese Proverb
+*"A room without books is like a body without a soul."* — Marcus Tullius Cicero
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
