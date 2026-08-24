@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference."* — Robert Frost
+*"Certain things catch your eye, but pursue only those that capture the heart."* —  Ancient Indian Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
