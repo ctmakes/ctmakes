@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Certain things catch your eye, but pursue only those that capture the heart."* —  Ancient Indian Proverb
+*"Entrepreneurship is living a few years of your life like most people won’t, so that you can spend the rest of your life like most people can’t."* — Anonymous
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
