@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Entrepreneurship is living a few years of your life like most people won’t, so that you can spend the rest of your life like most people can’t."* — Anonymous
+*"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each."* — Henry David Thoreau
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
