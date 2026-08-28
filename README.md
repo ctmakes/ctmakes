@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I treat business a bit like a computer game. I count money as points. I’m doing really well: making lots of money and lots of points."* — Michael Dunlop
+*"Money and success don’t change people; they merely amplify what is already there."* — Will Smith
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
