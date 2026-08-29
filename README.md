@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Money and success don’t change people; they merely amplify what is already there."* — Will Smith
+*"Don’t worry about failure; you only have to be right once."* — Drew Houston, founder of Dropbox
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
