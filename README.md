@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground."* — Unknown
+*"I wasn’t satisfied just to earn a good living. I was looking to make a statement."* — Donald Trump
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
