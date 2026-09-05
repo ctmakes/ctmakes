@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I wasn’t satisfied just to earn a good living. I was looking to make a statement."* — Donald Trump
+*"Winning isn’t everything, but wanting to win is."* — Vince Lombardi
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
