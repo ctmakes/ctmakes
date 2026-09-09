@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Action may not always bring happiness; but there is no happiness without action."* — Benjamin Disraeli
+*"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each."* — Henry David Thoreau
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
