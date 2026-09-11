@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Happiness is not something readymade.  It comes from your own actions."* — Dalai Lama
+*"The question isn’t who is going to let me; it’s who is going to stop me."* — Ayn Rand
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
