@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The question isn’t who is going to let me; it’s who is going to stop me."* — Ayn Rand
+*"In order to be irreplaceable one must always be different."* — Coco Chanel
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
