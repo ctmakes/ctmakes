@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"In order to be irreplaceable one must always be different."* — Coco Chanel
+*"The successful warrior is the average man, with laser-like focus."* — Bruce Lee
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
