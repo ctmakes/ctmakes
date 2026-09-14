@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The successful warrior is the average man, with laser-like focus."* — Bruce Lee
+*"Either write something worth reading or do something worth writing."* — Benjamin Franklin
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
