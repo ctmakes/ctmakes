@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Either write something worth reading or do something worth writing."* — Benjamin Franklin
+*"I attribute my success to this: I never gave or took any excuse."* — Florence Nightingale
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
