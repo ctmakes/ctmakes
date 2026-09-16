@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I attribute my success to this: I never gave or took any excuse."* — Florence Nightingale
+*"A leader is a dealer in hope."* — Napoleon Bonaparte
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
