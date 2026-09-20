@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"A somebody was once a nobody who wanted to and did."* — John Burroughs
+*"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."* — Albert Einstein
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
