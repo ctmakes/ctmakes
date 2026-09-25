@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"You need to overcome the tug of people against you as you reach for high goals."* — George S. Patton
+*"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."* — Aristotle
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
