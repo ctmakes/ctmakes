@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."* — Aristotle
+*"I treat business a bit like a computer game. I count money as points. I’m doing really well: making lots of money and lots of points."* — Michael Dunlop
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
