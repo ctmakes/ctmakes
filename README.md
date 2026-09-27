@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"I treat business a bit like a computer game. I count money as points. I’m doing really well: making lots of money and lots of points."* — Michael Dunlop
+*"Either write something worth reading or do something worth writing."* — Benjamin Franklin
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
