@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The way I see it, if you want the rainbow, you gotta put up with the rain."* — Dolly Parton
+*"Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter."* — Francis Chan
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
