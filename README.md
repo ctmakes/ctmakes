@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter."* — Francis Chan
+*"Truth comes out in wine"* — Pliny the Elder
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
