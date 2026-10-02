@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"All cats love fish but fear to wet their paws."* — Chinese Proverb
+*"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."* — Roy T. Bennett
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
