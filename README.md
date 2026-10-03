@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."* — Roy T. Bennett
+*"If you want to lift yourself up, lift up someone else."* — Booker T. Washington
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
