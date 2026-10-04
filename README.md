@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"If you want to lift yourself up, lift up someone else."* — Booker T. Washington
+*"You can’t use up creativity.  The more you use, the more you have."* — Maya Angelou
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
