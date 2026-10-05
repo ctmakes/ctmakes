@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"You can’t use up creativity.  The more you use, the more you have."* — Maya Angelou
+*"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."* — Aristotle
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
