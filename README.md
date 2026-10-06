@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."* — Aristotle
+*"Being strong means rejoicing in who you are, complete with imperfections"* — Margaret Woodhouse
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
