@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Being strong means rejoicing in who you are, complete with imperfections"* — Margaret Woodhouse
+*"Entrepreneurship is neither a science nor an art. It is a practice."* — Peter Drucker, management consultant, educator, and author.
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
