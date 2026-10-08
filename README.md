@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Entrepreneurship is neither a science nor an art. It is a practice."* — Peter Drucker, management consultant, educator, and author.
+*"I never perfected an invention that I did not think about in terms of the service it might give others… I find out what the world needs, then I proceed to invent."* — Thomas Edison
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
