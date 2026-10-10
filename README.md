@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Believe you can and you're halfway there."* — T. Roosevelt
+*"Always deliver more than expected."* — Larry Page, co-founder of Google
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
