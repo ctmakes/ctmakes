@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Dream big and dare to fail."* — Norman Vaughan
+*"The best and most beautiful things in the world cannot be seen or even touched -- they must be felt with the heart."* — Helen Keller
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
