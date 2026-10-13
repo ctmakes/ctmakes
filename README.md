@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The best and most beautiful things in the world cannot be seen or even touched -- they must be felt with the heart."* — Helen Keller
+*"“I think it’s wrong that only one company makes the game Monopoly."* — Steven Wright
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
