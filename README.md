@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Nothing will ever be attempted if all possible objections must first be overcome."* — Samuel Johnson
+*"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
