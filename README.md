@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt
+*"If you always do what interests you, at least one person is pleased."* — Katharine Hepburn
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
