@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Every feature has some maintenance cost, and having fewer features lets us focus on the ones we care about and make sure they work very well."* — David Karp, founder of Tumblr
+*"You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win."* — Zig Ziglar
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
