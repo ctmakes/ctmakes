@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win."* — Zig Ziglar
+*"The only way to do great work is to love what you do."* — Steve Jobs
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
