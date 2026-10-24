@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The only way to do great work is to love what you do."* — Steve Jobs
+*"The more things you care about, the less meaningful caring becomes."* — Zat Rana
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
