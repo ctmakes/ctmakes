@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The more things you care about, the less meaningful caring becomes."* — Zat Rana
+*"As long as you’re going to be thinking anyway, think big."* — Donald Trump
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
