@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"As long as you’re going to be thinking anyway, think big."* — Donald Trump
+*"When you have a dream, you've got to grab it and never let go."* — Carol Burnett
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
