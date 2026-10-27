@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"When you have a dream, you've got to grab it and never let go."* — Carol Burnett
+*"Life is 10% what happens to me and 90% of how I react to it."* — Charles Swindoll
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
