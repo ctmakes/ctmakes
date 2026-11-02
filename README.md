@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."* — Anonymous
+*"No one can make you feel inferior without your consent."* — Eleanor Roosevelt
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
