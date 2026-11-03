@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"No one can make you feel inferior without your consent."* — Eleanor Roosevelt
+*"The only person you should try to be better than is the person you were yesterday."* — Anonymous
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
