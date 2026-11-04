@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The only person you should try to be better than is the person you were yesterday."* — Anonymous
+*"The way I see it, if you want the rainbow, you gotta put up with the rain."* — Dolly Parton
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
