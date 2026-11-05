@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The way I see it, if you want the rainbow, you gotta put up with the rain."* — Dolly Parton
+*"Fall seven times and stand up eight."* — Japanese Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
