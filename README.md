@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Fall seven times and stand up eight."* — Japanese Proverb
+*"One of the greatest diseases is to be nobody to anybody."* — Mother Teresa
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
