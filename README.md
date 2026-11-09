@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"Life is what we make it, always has been, always will be."* — Grandma Moses
+*"The more you praise and celebrate your life, the more there is in life to celebrate."* — Oprah Winfrey
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
