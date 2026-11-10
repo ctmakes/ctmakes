@@ -13,7 +13,3 @@ Software engineer & founder based in Singapore. I make software that does its jo
 
 - **[Note67](https://note67.com/)** ([GitHub](https://github.com/ZapYap-com/note67)) — Meeting notes that never leave your device.
 - **[SnapToWindow](https://snaptowindow.com/)** ([GitHub](https://github.com/ctmakes/snaptowindow)) — Window snapping, entirely from the keyboard.
-
-<!-- QUOTE -->
-*"Fall seven times, stand up eight"* — Japanese Proverb
-<!-- /QUOTE -->
