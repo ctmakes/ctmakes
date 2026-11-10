@@ -19,6 +19,6 @@ Software engineer & founder based in Singapore. I make software that does its jo
 <!-- /QUOTE -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctmakes/ctmakes/output/github-snake-dark.svg" />
-  <img alt="Contribution snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ctmakes/ctmakes/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctmakes/ctmakes/output/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ctmakes/ctmakes/output/pacman-contribution-graph.svg" />
 </picture>
