@@ -5,8 +5,8 @@ Software engineer & founder based in Singapore. I make software that does its jo
 
 #### Projects
 
-- **[MySendbox](https://mysendbox.com/)** — Email for AI agents, plus transactional email for apps, from your own domain.
 - **[LeapCount](https://leapcount.com/)** — One place for projects, invoices, accounting, and inventory.
+- **[MySendbox](https://mysendbox.com/)** — Email for AI agents, plus transactional email for apps, from your own domain.
 - **[ZapYap](https://zapyap.com/en/)** — An AI assistant and password manager that treats your secrets like secrets.
 
 #### Open Source
