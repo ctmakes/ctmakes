@@ -17,8 +17,6 @@ Software engineer & founder based in Singapore. I make software that does its jo
 
 [Website](https://ctmakes.com) · [Writing](https://ctmakes.com/blog) · [X](https://x.com/ctmakes) · [Book a chat](https://cal.com/ctmakes/hellothere)
 
----
-
 <!-- QUOTE -->
 *"Fall seven times, stand up eight"* — Japanese Proverb
 <!-- /QUOTE -->
