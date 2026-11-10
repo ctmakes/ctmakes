@@ -21,7 +21,7 @@ Blog, Dev tools, SG support grant AI Chat and more
 ---
 
 <!-- QUOTE -->
-*"The more you praise and celebrate your life, the more there is in life to celebrate."* — Oprah Winfrey
+*"Fall seven times, stand up eight"* — Japanese Proverb
 <!-- /QUOTE -->
 
 <sub>via [Quote API](https://ctmakes.com/quotes) · updates daily</sub>
