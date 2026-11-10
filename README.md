@@ -17,8 +17,3 @@ Software engineer & founder based in Singapore. I make software that does its jo
 <!-- QUOTE -->
 *"Fall seven times, stand up eight"* — Japanese Proverb
 <!-- /QUOTE -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctmakes/ctmakes/output/pacman-contribution-graph-dark.svg" />
-  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ctmakes/ctmakes/output/pacman-contribution-graph.svg" />
-</picture>
