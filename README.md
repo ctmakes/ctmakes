@@ -19,11 +19,11 @@ Software engineer & founder based in Singapore. I make software that does its jo
 
 ---
 
+<!-- QUOTE -->
+*"Fall seven times, stand up eight"* — Japanese Proverb
+<!-- /QUOTE -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctmakes/ctmakes/output/github-snake-dark.svg" />
   <img alt="Contribution snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ctmakes/ctmakes/output/github-snake.svg" />
 </picture>
-
-<!-- QUOTE -->
-*"Fall seven times, stand up eight"* — Japanese Proverb
-<!-- /QUOTE -->
